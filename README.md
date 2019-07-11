@@ -7,6 +7,8 @@ Sparkline charts for Flutter.
 
 ![screenshot](screenshots/shot2.png)
 
+![screenshot](screenshots/shot3.png)
+
 
 See the example for how to use it
 

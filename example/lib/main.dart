@@ -233,7 +233,7 @@ class _MyHomePageState extends State<MyHomePage> {
         min = model.value;
       }
     }
-//    lineCount += 6;
+    lineCount += 5;
 
     ///Get the maximum and minimum values on the Y-axis in the line graph
     double ytp = 27.2; //yesterday's closing price
