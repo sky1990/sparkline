@@ -1,5 +1,7 @@
 # flutter_sparkline
-flutter,股票分时图
+flutter,折线图、股票分时图
+
+![screenshot](screenshots/example.png)
 
 Sparkline charts for Flutter.
 
