@@ -1,4 +1,4 @@
-# sparkline
+# flutter_sparkline
 flutter,折线图、股票分时图
 
 Sparkline charts for Flutter.
