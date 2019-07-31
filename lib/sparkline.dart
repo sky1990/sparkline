@@ -1,4 +1,4 @@
-library flutter_sparkline;
+library sparkline;
 
 export 'src/sparkline_stock.dart';
 export 'src/sparkline_model.dart';

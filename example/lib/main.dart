@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sparkline/flutter_sparkline.dart';
+import 'package:sparkline/sparkline.dart';
 
 
 void main() => runApp(MyApp());

@@ -4,8 +4,8 @@ import 'dart:ui' as ui show PointMode;
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_sparkline/src/sparkline_model.dart';
-import 'package:flutter_sparkline/src/date_format_base.dart';
+import 'sparkline_model.dart';
+import 'date_format_base.dart';
 
 /// Strategy used when filling the area of a sparkline.
 enum FillMode {
